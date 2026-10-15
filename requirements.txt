@@ -1,3 +1,4 @@
 jupyter
 notebook
 numpy
+paddle-quantum==2.4.0
