@@ -10,3 +10,6 @@ dependencies:
   - numpy
   - jupyter
   - notebook
+  - pip:
+      - paddlepaddle==2.3.0
+      - paddle-quantum==2.4.0
